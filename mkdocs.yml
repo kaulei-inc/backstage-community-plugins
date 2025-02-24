@@ -1,0 +1,5 @@
+site_name: 'backstage-community-plugins'
+nav:
+  - Home: doc/README.md
+plugins:
+  - techdocs-core
