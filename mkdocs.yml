@@ -1,8 +1,7 @@
 site_name: 'backstage-community-plugins'
 nav:
-  - Readme: docs/README.md
-  - Updating Yarn: docs/updating-yarn.md
-  - Version Bump: docs/version-bump.md
+  - Updating Yarn: https://github.com/kaulei-inc/backstage-community-plugins/blob/main/docs/updating-yarn.md
+  - Version Bump: https://github.com/kaulei-inc/backstage-community-plugins/blob/main/docs/version-bump.md
   
 plugins:
   - techdocs-core
