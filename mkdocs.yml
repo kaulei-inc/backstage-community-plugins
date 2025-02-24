@@ -1,5 +1,8 @@
 site_name: 'backstage-community-plugins'
 nav:
-  - Home: doc/README.md
+  - Readme: docs/README.md
+  - Updating Yarn: docs/updating-yarn.md
+  - Version Bump: docs/version-bump.md
+  
 plugins:
   - techdocs-core
