@@ -4,6 +4,8 @@ metadata:
   name: backstage-community-plugins
   annotations:
     github.com/project-slug: kaulei-inc/backstage-community-plugins
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
 spec:
   type: other
   lifecycle: unknown
